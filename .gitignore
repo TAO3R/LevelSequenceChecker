@@ -1,0 +1,10 @@
+# UE plugin build artifacts
+Binaries/
+Intermediate/
+
+# IDE
+.vs/
+.idea/
+*.sdf
+*.suo
+*.user

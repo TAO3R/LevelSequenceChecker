@@ -1,0 +1,21 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0.0",
+	"FriendlyName": "Level Sequence Checker",
+	"Description": "Level Sequence 资产保存时自动检查工具",
+	"Category": "Editor",
+	"CreatedBy": "",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"EnabledByDefault": false,
+	"Modules": [
+		{
+			"Name": "LevelSequenceChecker",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}
